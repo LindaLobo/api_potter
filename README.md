@@ -15,10 +15,9 @@ Es una pagina creada para fans de Harry Potter especificanmente de libros como e
 
 ## Construido con 🛠️
 
-* [HTML]
-* [CSS]
-* [JAVASCRIPT]
-* [REACT]
+* [NODE]
+* [EXPRESS]
+* [POSTGRES]
 * La base de datos depende del otro proyecto: https://github.com/LindaLobo/cliente_potter/
 
 ## Edición
